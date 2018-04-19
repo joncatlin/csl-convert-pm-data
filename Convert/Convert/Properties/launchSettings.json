@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Convert": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\PaymetricLogs\\4-10.csv ,"
+    }
+  }
+}

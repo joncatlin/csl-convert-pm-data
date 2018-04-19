@@ -1,0 +1,11 @@
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\bin\Debug\netcoreapp2.0\Convert.deps.json
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\bin\Debug\netcoreapp2.0\Convert.runtimeconfig.json
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\bin\Debug\netcoreapp2.0\Convert.runtimeconfig.dev.json
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\bin\Debug\netcoreapp2.0\Convert.dll
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\bin\Debug\netcoreapp2.0\Convert.pdb
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\obj\Debug\netcoreapp2.0\Convert.csprojResolveAssemblyReference.cache
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\obj\Debug\netcoreapp2.0\Convert.csproj.CoreCompileInputs.cache
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\obj\Debug\netcoreapp2.0\Convert.AssemblyInfoInputs.cache
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\obj\Debug\netcoreapp2.0\Convert.AssemblyInfo.cs
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\obj\Debug\netcoreapp2.0\Convert.dll
+U:\Development\Repositories\csl-convert-pm-data\Convert\Convert\obj\Debug\netcoreapp2.0\Convert.pdb
